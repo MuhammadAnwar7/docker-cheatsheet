@@ -1,8 +1,9 @@
 # docker-cheatsheet
-This repo for common docker commands to help me memorize it quickly 
+This repo for common docker commands to help me memorize it quickly * Item 1
 
-* run docker container
- *docker run -d --name container-name -p hostportnum:containerportnum -t imageName nginx -g 'daemon off;' 
+
+* run docker container 
+  * docker run -d --name container-name -p hostportnum:containerportnum -t imageName nginx -g 'daemon off;'
  
 option | usage
 ----- | -------------
