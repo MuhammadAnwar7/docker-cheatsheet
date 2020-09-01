@@ -1,5 +1,5 @@
 # docker-cheatsheet
-This repo for common docker commands to help me memorize it quickly * Item 1
+This repo for common docker commands to help me memorize it quickly 
 
 
 * run docker container 
